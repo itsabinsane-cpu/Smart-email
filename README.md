@@ -28,7 +28,8 @@ The core AI feature uses the Gemini API (gemini-2.0-flash model) to generate ema
 ## Screenshots
 <img width="950" height="445" alt="Screenshot 2026-07-25 164909" src="https://github.com/user-attachments/assets/c4433ef1-48f9-4b6f-a62f-8c4217e9aa82" />
 <img width="619" height="355" alt="Screenshot 2026-07-25 165258" src="https://github.com/user-attachments/assets/d813668c-e418-481e-bd9c-01fa9c43be6b" />
-<img width="716" height="421" alt="Screenshot 2026-07-25 165421" src="https://github.com/user-attachments/assets/2b1bf253-53dc-4ef0-a825-7c06a4452880" />
+<img width="956" height="422" alt="Screenshot 2026-07-25 165226" src="https://github.com/user-attachments/assets/c4278ead-69fa-4ade-a4a8-b63652e2f4ae" />
+
 
 
 
