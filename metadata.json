@@ -1,0 +1,6 @@
+{
+  "name": "SmartMail AI",
+  "description": "AI-Powered Professional Email Writing Assistant for generating polished, context-aware emails in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
